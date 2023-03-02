@@ -1,0 +1,68 @@
+.car p{
+    text-align: center;
+    margin: auto;
+
+}
+
+.car img{
+    position: relative;
+    margin: 10px;
+    padding: 30px;
+    left: 564px;
+    border: 2px solid rgb(218, 173, 39);
+    cursor: pointer;
+}
+
+
+form input{
+    background-color: aqua;
+}
+form input:focus{
+    background-color: red;
+}
+
+#bu{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+#bu:focus{
+    background-color: rgb(255, 132, 0);
+}
+form{
+    background-color: black;
+    color: white;
+    margin-left: 565px;
+    margin-right: 600px;
+    padding-left: 56px;
+    padding-top: 46px;
+    padding-bottom: 35px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(230, 23, 23);
+}
+
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    background-color: rgb(233, 137, 12);
+    color: black;
+    text-align: center;
+    padding: 16px 14px;
+
+}
+.header{
+    background-color: aqua;
+}
+li a:hover{
+    background-color: yellow;
+}
